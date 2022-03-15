@@ -1,0 +1,13 @@
+<div>
+
+<section> secão genérica de conteudo, como uma lista de artigos
+
+<header> cabeçalho da pagina (titulo da pagina)
+
+<article> conteudo relevante, como um artigo de um blog
+
+<aside> conteudo relacionado ao conteudo principal, como um artigo de um blog
+
+<footer> rodapé da pagina
+
+<h1> até o <h6> titulos. Será um h para cada header

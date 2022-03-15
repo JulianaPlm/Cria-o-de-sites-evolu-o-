@@ -1,0 +1,9 @@
+width - largura
+height altura
+
+Max-width = largura máxima
+Max-height = altura = máxima
+
+margin = 
+
+text align - serve para alinhar textos

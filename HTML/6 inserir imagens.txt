@@ -1,0 +1,9 @@
+<img>
+
+src - é obrigatório. Guarda o caminho da imagem
+
+alt - mostra a descrição da imagem
+
+uso na prática:
+	<img src ="img/avarar.jpg">
+	<img alt="Foto de lucas">

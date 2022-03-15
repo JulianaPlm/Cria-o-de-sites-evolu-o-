@@ -1,0 +1,7 @@
+<h1> título da página</h1>
+
+<h2> Título de seção </h2>
+
+<h3> Título de artigo </h3>
+
+<p> Conteúdo do artigo.</p>

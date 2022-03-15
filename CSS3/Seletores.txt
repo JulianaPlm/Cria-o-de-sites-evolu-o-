@@ -1,0 +1,41 @@
+SSC - linguagem de estilo (serve para estilizar uma página/web).
+
+Seletores: são elementos HTML que usaremos para estilizar
+   bloco de declarações: Todas as mudanças que queremos fazer nos seletores.
+	propriedade: valor - para cada declaração. A propriedade é o atributo, e o valor será a caracteristica da propriedade
+
+ex: a {
+	color: blue
+	font-size: 14px
+      }
+
+na prática:
+
+1° forma:
+	<p style="
+   	    color:#FFB3B3
+   	    font-size:20px ">
+
+2° forma:
+	<style
+	  type"text/css">
+	  P{
+	    color:#FFB3B4
+	    font-size: 20px
+	  }
+
+	
+Declarações
+   são formadas por uma propriedade e um valor.
+	color: blue
+	font-size
+
+ID X CLASS
+	
+	ID: se usa quando o elemento é único e não vai se repetir
+	CLASS: se usa quando o elemento irá se repetir
+
+
+na prática:
+	#header id="header" class ="header"></header>
+	.header class="header"></header

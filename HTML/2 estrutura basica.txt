@@ -1,0 +1,11 @@
+Estrutura Básica
+
+<!DOCTYPE html> = Diz pro navegado o que vc está escrevendo.
+<html> tag do elemento html
+ <head> abertura da tag do elemento head. diz a informação que o nagevador necessita.
+   <meta> usada para várias coisas
+   <title></title> coloca o titulo na aba do navegador
+ </head> fechamento do elemento head
+ <body> aqui está o conteúdo da pag
+ </body> fechamento do elemento body
+</html> fechamento do elemento html

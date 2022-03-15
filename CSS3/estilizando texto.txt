@@ -1,0 +1,30 @@
+font-family = muda a fonte do texto
+	font-family: verdana;
+
+	font-family: verdana, arial; (nesse caso foi adicionado dois pq casa o primeira não funcione, a segunda vai.
+
+
+font-size = altera o tamanho
+
+font-style = altera a aparencia do texto
+
+font-weight - altera o peso do texto.
+
+text-transforme = altera o texto entre maiusculo e minusculo.
+	
+	uppercase; coloca todo o texto caixa alta
+	
+	lowercase; coloca todo o texto em caixa beixa
+
+	capitalize;  coloca as primeira letras do texto em maiúscula
+
+
+text-decoration = dá destaque no texto com linhas
+	
+	underline - linha abaixo da palavra
+
+	overline - linha acima da palavra
+
+	line-through - coloca linha no centro cortando a palavra.
+
+	

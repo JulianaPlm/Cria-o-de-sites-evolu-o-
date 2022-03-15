@@ -1,0 +1,7 @@
+list-style-type
+	square - altera o simbolo marcador para um quadrado
+
+	upper-roman = altera o simbolo marcador para um algarismo romano
+	
+
+	"\1F44D" = altera o simbolo marcador por um simbolo(no caso, um emoji de joinha)

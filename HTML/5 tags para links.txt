@@ -1,0 +1,14 @@
+<a> Link </a>
+
+href = hiper link para onde sua ancora está apontando
+
+target = indica como o link vai ser aberto
+	_blank = diz para nossa pagina abrir o link em uma nova pagina
+
+como é na prática:
+	<a href = "Link"> Linkedin </a>
+
+	< a targer ="_blank">Link</a>
+
+Para fazer um link abrir em uma nova aba depois de clicado:
+	<a href = "Link.com" targer ="_blank" > Linkedin </a>

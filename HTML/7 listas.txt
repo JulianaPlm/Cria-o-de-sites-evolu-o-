@@ -1,0 +1,21 @@
+Listas =  servem para agrupar coleções de itens
+
+<ul> = a ordem dos itens não são importantes
+
+<ol> = a ordem é importante
+
+<li> = é um item da lista
+
+
+na prática:
+
+	<ul>
+          <li>nome do item</li>
+
+	</ul>
+
+
+	<ol>
+          <li>nome do item</li>
+
+	</ol>

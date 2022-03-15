@@ -1,0 +1,27 @@
+quando fazemos o layout de um site, o navegador representa cada parte dele como o "box model". 
+
+margin - espaçamento entre elementos
+
+border - circulam o padding e o content
+
+padding = espaçamento entre o bloco e seu conteúdo
+      .post {
+	padding: 15px 10px 5px 0;
+       }
+	    15px - para o topo
+	    10px = para a direita
+	     5px = para a parte inferior
+	       0 = para o lado esquerdo
+
+   tbm pode ser:
+      .post{
+	padding-top: 15px;
+	padding-right: 10px;
+	padding- bottom: 5px;
+	padding-left: 0;
+       }
+	
+content - é o que o bloco representa
+
+
+background - com essa propriedade podemos mudar a cor do fundo, mudar imagem e a posição dela.
